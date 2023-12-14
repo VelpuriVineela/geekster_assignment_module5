@@ -49,12 +49,12 @@ To use this project, follow the steps in the [Getting Started](#getting-started)
 
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Contributions are welcome!
 
-## Hosted Link
-
-https://velpurivineela.github.io/geekster_module5_Day2_CLasswork/
-
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/your-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a pull request
+
+## Hosted Link
+
+https://velpurivineela.github.io/geekster_module5_Day2_CLasswork/
